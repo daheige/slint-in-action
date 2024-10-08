@@ -52,9 +52,9 @@ fn main() {
 6. 运行cargo run命令，效果如下图所示
 ![hello.png](hello.png)
 
-# slint arch
+# Slint arch
 https://github.com/slint-ui/slint/?tab=readme-ov-file#architecture
 
-# slint doc
+# Slint doc
 - https://github.com/slint-ui/slint
 - https://docs.slint.dev/
